@@ -1,0 +1,11 @@
+*~
+*.o
+*.swp
+*.i
+*.orig
+*.cmd
+*.order
+*.symvers
+*.mod.c
+.directory
+a.out
